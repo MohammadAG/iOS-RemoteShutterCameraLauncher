@@ -1,0 +1,9 @@
+Package: com.mohammadag.remoteshuttercameralauncher
+Name: Remote Shutter Camera Launcher
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remote shutter camera launcher
+Maintainer: Mohammad Abu-Garbeyyeh
+Author: Mohammad Abu-Garbeyyeh
+Section: Tweaks
